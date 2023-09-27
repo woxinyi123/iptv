@@ -1,7 +1,5 @@
 上海,#genre#
-咪咕全民热练,http://111.40.196.27:443/0000000000001000/3000000020000031315/index.m3u8?livemode=1&stbId=10&channel-id=FifastbLive&Contentid=3000000020000031315
 咪咕全民热练,http://111.40.196.27:443/0000000000001000/1000000006000270007/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000270007
-咪咕全民热练,http://111.40.196.27:443/0000000000001000/2000000003000000068/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=200000000300000006
 东方卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 东方卫视,http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/wh7f454c46tw145917302_1381458537/ott.mobaibox.com/PLTV/3/224/3221228425/index.m3u8?icpid=3&RTS=1674371671&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
 东方卫视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN111131BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUaKz9fMrAi6%2FC6MZg8Mm9JQwoDIwMxbrlyyVy9x6ZDKnJ1LnEAwl4s1JgSBXbCxhRiWmveR7x9HhnhsF9G%2Bd4f8

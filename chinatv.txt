@@ -211,6 +211,7 @@ RTHK-31,http://xxy.x3322.net:9002/bysid/31
 RTHK-32,http://xxy.x3322.net:9002/bysid/32
 RTHK-33,http://xxy.x3322.net:9002/bysid/33
 RTHK-34,http://xxy.x3322.net:9002/bysid/34
+華視新聞資訊台,http://gofuxkyourself.online/php/中秋快乐2.php?id=4gtv-4gtv052
 台視,http://162.19.247.76:22222/live/taishi/index.m3u8
 中視,http://162.19.247.76:22222/live/zhongshi/index.m3u8
 中視,http://61.221.81.93:8078/hls/39/80/gtvdrama.m3u8
@@ -220,14 +221,18 @@ RTHK-34,http://xxy.x3322.net:9002/bysid/34
 中視,rtmp://9sv2.mine.nu:1935/sat/tv091
 中視,rtmp://9wv7.mine.nu/sat/tv091
 華視,rtmp://9sv2.mine.nu:1935/sat/tv111
-三立LIVE,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
 民視新聞,http://www.terrykang.xyz:35455/youtube/ylYJSBUgaMA
-中天新聞,http://www.terrykang.xyz:35455/youtube/oIgbl7t0S_w
+民視新聞,http://gofuxkyourself.online/php/中秋快乐1.php?id=live1204
+中天新聞,http://www.terrykang.xyz:35455/youtube/oIgbl7t0S_w1
+中天新聞,http://gofuxkyourself.online/php/中秋快乐1.php?id=live1015
 TVBS新聞,rtmp://9sv2.mine.nu:1935/sat/tv551
-TVBS NEWS,http://www.terrykang.xyz:35455/youtube/m_dhMSvUCIc
+TVBS新聞,http://www.terrykang.xyz:35455/youtube/m_dhMSvUCIc
+TVBS新聞,http://gofuxkyourself.online/php/中秋快乐1.php?id=live1051
+TVBS HD,http://gofuxkyourself.online/php/中秋快乐1.php?id=live1254
 東森新聞,http://www.terrykang.xyz:35455/youtube/S5WOGu2HSes
 東森財經,https://ytm2.yuanhsing.cf/EBCFinancial.m3u8
 東森財經,rtmp://9sv2.mine.nu:1935/sat/tv571
+三立新聞HD,http://gofuxkyourself.online/php/中秋快乐1.php?id=live1016
 三立iNEW+,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
 三立iNEWS,http://tv.redrainl.site:9500/live.m3u8?c=51
 台視新聞,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
@@ -235,10 +240,14 @@ TVBS NEWS,http://www.terrykang.xyz:35455/youtube/m_dhMSvUCIc
 中視新聞,https://ytm2.yuanhsing.cf/twctvnews.m3u8
 中視新聞,http://www.terrykang.xyz:35455/youtube/TCnaIE_SAtM
 鏡新聞Mnews,https://ytm2.yuanhsing.cf/mnews.m3u8
+壹新聞,http://gofuxkyourself.online/php/中秋快乐1.php?id=live1242
+寰宇新聞台,http://gofuxkyourself.online/php/中秋快乐2.php?id=litv-longturn14
 寰宇國際新聞,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
+Taiwan Plus,http://gofuxkyourself.online/php/中秋快乐1.php?id=live1238
+年代新聞,http://gofuxkyourself.online/php/中秋快乐1.php?id=live1192
 緯來日本,rtmp://9sv2.mine.nu:1935/sat/tv771
 緯來日本,rtmp://9sv2.mine.nu:1935/sat/tv771
-
+靖天日本台,http://gofuxkyourself.online/php/中秋快乐2.php?id=4gtv-4gtv047
 
 国际,#genre#
 日本全天新聞,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8

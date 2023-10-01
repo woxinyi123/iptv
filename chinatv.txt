@@ -206,7 +206,8 @@ CCTV文化精品,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PL
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-翡翠台高清,http://107.167.12.58:27347/livehttpplay?channel_id=30025
+翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=30025
+翡翠台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-29486908-d4a6-407e-b02c-58532359ae33.flv
 无线财经资讯台,http://107.167.12.58:27347/livehttpplay?channel_id=30019
 无线新闻,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153399&extension=ts&play_token=mad8wXPonE
 Now 新闻台,http://103.45.68.47/gy/gy206/xsj.php?id=now-news

@@ -407,22 +407,10 @@ https://pull-f5-spe.ixigua.com/live/YesLiveTV-29486908-d4a6-407e-b02c-58532359ae
 http://107.167.12.58:27347/livehttpplay?channel_id=30019
 #EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="港澳台",无线新闻
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153399&extension=ts&play_token=mad8wXPonE
-#EXTINF:-1,tvg-id="NOW新闻台" tvg-name="NOW新闻台" tvg-logo="https://epg.112114.xyz/logo/NOW新闻台.png" group-title="港澳台",Now 新闻台
-http://103.45.68.47/gy/gy206/xsj.php?id=now-news
-#EXTINF:-1,tvg-id="RTHK-31" tvg-name="RTHK-31" tvg-logo="https://epg.112114.xyz/logo/RTHK31.png" group-title="港澳台",RTHK-31
-http://xxy.x3322.net:9002/bysid/31
-#EXTINF:-1,tvg-id="RTHK-32" tvg-name="RTHK-32" tvg-logo="https://epg.112114.xyz/logo/RTHK32.png" group-title="港澳台",RTHK-32
-http://xxy.x3322.net:9002/bysid/32
-#EXTINF:-1,tvg-id="RTHK-33" tvg-name="RTHK-33" tvg-logo="https://epg.112114.xyz/logo/RTHK33.png" group-title="港澳台",RTHK-33
-http://xxy.x3322.net:9002/bysid/33
-#EXTINF:-1,tvg-id="RTHK-34" tvg-name="RTHK-34" tvg-logo="https://epg.112114.xyz/logo/RTHK34.png" group-title="港澳台",RTHK-34
-http://xxy.x3322.net:9002/bysid/34
 #EXTINF:-1,tvg-id="台視" tvg-name="台視" tvg-logo="https://epg.112114.xyz/logo/台視.png" group-title="港澳台",台視
 http://162.19.247.76:22222/live/taishi/index.m3u8
 #EXTINF:-1,tvg-id="中視" tvg-name="中視" tvg-logo="https://epg.112114.xyz/logo/中視.png" group-title="港澳台",中視
 http://162.19.247.76:22222/live/zhongshi/index.m3u8
-#EXTINF:-1,tvg-id="華視" tvg-name="華視" tvg-logo="https://epg.112114.xyz/logo/華視.png" group-title="港澳台",華視
-http://162.19.247.76:22222/live/huashi/index.m3u8
 #EXTINF:-1,tvg-id="華視" tvg-name="華視" tvg-logo="https://epg.112114.xyz/logo/華視.png" group-title="港澳台",華視
 http://162.19.247.76:22222/live/huashi/index.m3u8
 #EXTINF:-1,tvg-id="民視新聞" tvg-name="民視新聞" tvg-logo="https://epg.112114.xyz/logo/民視新聞.png" group-title="港澳台",民視新聞
@@ -437,8 +425,6 @@ http://www.terrykang.xyz:35455/youtube/S5WOGu2HSes
 https://ytm2.yuanhsing.cf/EBCFinancial.m3u8
 #EXTINF:-1,tvg-id="三立iNEW+" tvg-name="三立iNEW+" tvg-logo="https://epg.112114.xyz/logo/三立INEW+.png" group-title="港澳台",三立iNEW+
 https://ytm2.yuanhsing.cf/SETLIVE.m3u8
-#EXTINF:-1,tvg-id="三立iNEWS" tvg-name="三立iNEWS" tvg-logo="https://epg.112114.xyz/logo/三立INEWS.png" group-title="港澳台",三立iNEWS
-http://tv.redrainl.site:9500/live.m3u8?c=51
 #EXTINF:-1,tvg-id="台視新聞" tvg-name="台視新聞" tvg-logo="https://epg.112114.xyz/logo/台視新聞.png" group-title="港澳台",台視新聞
 https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
 #EXTINF:-1,tvg-id="台視新聞" tvg-name="台視新聞" tvg-logo="https://epg.112114.xyz/logo/台視新聞.png" group-title="港澳台",台視新聞

@@ -230,13 +230,8 @@ CCTV文化精品,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PL
 翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=30025
 翡翠台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-29486908-d4a6-407e-b02c-58532359ae33.flv
 无线财经资讯台,http://107.167.12.58:27347/livehttpplay?channel_id=30019
-无线新闻,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153399&extension=ts&play_token=mad8wXPonE
-无线新闻,https://pull-f5-spe.ixigua.com/live/YesLiveTV-4b30dd35-4711-419a-9b42-de620aec12f5/index.m3u8?by=yeslivetv.com
-Now 新闻台,http://103.45.68.47/gy/gy206/xsj.php?id=now-news
-RTHK-31,http://xxy.x3322.net:9002/bysid/31
-RTHK-32,http://xxy.x3322.net:9002/bysid/32
-RTHK-33,http://xxy.x3322.net:9002/bysid/33
-RTHK-34,http://xxy.x3322.net:9002/bysid/34
+无线新闻,https://pull-f5-spe.ixigua.com/live/YesLiveTV-4b30dd35-4711-419a-9b42-de620aec12f5/index.m3u8?by=yeslivetv.com#http://103.45.68.47/gy/gy921/xsj.php?id=tvb-news
+Now新闻台,http://103.45.68.47/gy/gy921/xsj.php?id=now-news
 台視,http://162.19.247.76:22222/live/taishi/index.m3u8
 中視,http://162.19.247.76:22222/live/zhongshi/index.m3u8
 華視,http://162.19.247.76:22222/live/huashi/index.m3u8
@@ -245,7 +240,6 @@ RTHK-34,http://xxy.x3322.net:9002/bysid/34
 中視,rtmp://9sv2.mine.nu:1935/sat/tv091
 中視,rtmp://9wv7.mine.nu/sat/tv091
 華視,rtmp://9sv2.mine.nu:1935/sat/tv111
-華視,http://162.19.247.76:22222/live/huashi/index.m3u8
 民視新聞,http://www.terrykang.xyz:35455/youtube/ylYJSBUgaMA
 中天新聞,http://www.terrykang.xyz:35455/youtube/oIgbl7t0S_w
 TVBS新聞,rtmp://9sv2.mine.nu:1935/sat/tv551
@@ -260,12 +254,7 @@ TVBS新聞,http://www.terrykang.xyz:35455/youtube/m_dhMSvUCIc
 中視新聞,https://ytm2.yuanhsing.cf/twctvnews.m3u8
 中視新聞,http://www.terrykang.xyz:35455/youtube/TCnaIE_SAtM
 鏡新聞Mnews,https://ytm2.yuanhsing.cf/mnews.m3u8
-鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 寰宇國際新聞,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
-年代新聞,mitv://135.148.104.228:19806/0bf2d916da0d417da403b3ad8b443207
-TVBS,mitv://135.148.104.228:19806/dddbab0921ec4c208e9ea6e1465be102
-華視新聞,mitv://135.148.104.228:19806/2d1f9196df08492e846824cf4eee8afa
-壹電視新聞台,mitv://135.148.104.228:19806/69bc3f48acbe43e1b65d928484493bf6
 CNN,mitv://135.148.104.228:19806/64e312b4000a495878d628702a9c2b2e
 CNN USA,mitv://135.148.104.228:19806/e26f49dc14b34b1abe3e1fea84e1e5f4
 緯來日本,rtmp://9sv2.mine.nu:1935/sat/tv771

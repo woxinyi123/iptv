@@ -12,11 +12,13 @@
 新闻综合,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031110/index.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
 新闻综合,http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001014/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
 新闻综合,http://110.80.139.96/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
+新闻综合,http://42.81.252.22/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
 新闻综合,https://live.metshop.top/bestv.php?id=xwzhhd8m/8000000
 新闻综合,http://58.32.40.25:8000/udp/239.45.3.209:5140
 上海都市,http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001015/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
 上海都市,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001015/index.m3u8?
 上海都市,http://110.80.139.96/liveplay-kk.rtxapp.com/live/program/live/dshd8m/8000000/mnf.m3u8
+上海都市,http://42.81.252.22/liveplay-kk.rtxapp.com/live/program/live/dshd8m/8000000/mnf.m3u8
 上海都市,https://live.metshop.top/bestv.php?id=dshd8m/8000000
 上海都市,http://58.32.40.25:8000/udp/239.45.3.236:5140
 上海都市,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221225673/1.m3u8
@@ -27,6 +29,7 @@
 五星体育,https://live.metshop.top/bestv.php?id=wxtyhd8m/8000000
 五星体育,http://58.32.40.25:8000/udp/239.45.3.210:5140
 五星体育,http://110.80.139.96/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+五星体育,http://42.81.252.22/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
 劲爆体育,http://159.75.85.63:5681/sxg.php?id=lqhxjcHDH265_4000
 劲爆体育,http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000029972/index.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
 劲爆体育,https://live.metshop.top/bestv.php?id=jbtyhd8m/8000000
@@ -255,6 +258,7 @@ TVBS新聞,http://www.terrykang.xyz:35455/youtube/m_dhMSvUCIc
 中視新聞,http://www.terrykang.xyz:35455/youtube/TCnaIE_SAtM
 鏡新聞Mnews,https://ytm2.yuanhsing.cf/mnews.m3u8
 寰宇國際新聞,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
+寰宇新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 CNN,mitv://135.148.104.228:19806/64e312b4000a495878d628702a9c2b2e
 CNN USA,mitv://135.148.104.228:19806/e26f49dc14b34b1abe3e1fea84e1e5f4
 緯來日本,rtmp://9sv2.mine.nu:1935/sat/tv771

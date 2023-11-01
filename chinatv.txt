@@ -267,6 +267,26 @@ CCTV文化精品,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PL
 中視新聞,https://ytm2.yuanhsing.cf/twctvnews.m3u8
 鏡新聞Mnews,https://ytm2.yuanhsing.cf/mnews.m3u8
 寰宇國際新聞,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
+中天新聞,https://tv.iill.top/youtube/oIgbl7t0S_w
+中天新聞2,https://tv.iill.top/youtube/WPfPjbOLNfE
+中天亞洲台,https://tv.iill.top/youtube/PYtGQvNmadg
+TVBS新聞,https://tv.iill.top/youtube/m_dhMSvUCIc
+東森新聞台,https://tv.iill.top/youtube/S5WOGu2HSes
+東森財經新聞,https://tv.iill.top/youtube/WHEPzbFA3hw
+東森財經股市,https://tv.iill.top/youtube/watch?v=LbS-xQ67fos
+台視新聞,https://tv.iill.top/youtube/xL0ch83RAK8
+中視新聞,https://tv.iill.top/youtube/TCnaIE_SAtM
+華視新聞資訊台,https://tv.iill.top/youtube/wM0g8EoUZ_E
+台視,https://tv.iill.top/youtube/uDqQo8a7Xmk
+寰宇新聞,https://tv.iill.top/youtube/B7Zp3d6xXWw
+公視,https://tv.iill.top/youtube/C6gYqSHLRw4
+公視台語台,https://tv.iill.top/youtube/6KlRR_DGhmI
+CCTV国际,https://tv.iill.top/youtube/9sE12tg3CmA
+鳳凰衛視資訊台,https://tv.iill.top/youtube/if6yQq_JJyY
+三立inews,https://tv.iill.top/youtube/CKjSm5ZeehE
+民視新聞台,https://tv.iill.top/youtube/ylYJSBUgaMA
+鏡新聞,https://tv.iill.top/youtube/5n0y6b0Q25o
+中視經典綜藝,https://tv.iill.top/youtube/ADDSmXoPDY8
 CNN,mitv://135.148.104.228:19806/64e312b4000a495878d628702a9c2b2e
 CNN USA,mitv://135.148.104.228:19806/e26f49dc14b34b1abe3e1fea84e1e5f4
 

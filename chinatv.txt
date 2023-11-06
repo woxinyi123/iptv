@@ -256,7 +256,6 @@ CCTV文化精品,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PL
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 凤凰中文,http://180.143.86.40:8181/tsfile/live/1083_1.m3u8
 凤凰香港,http://180.143.86.40:8181/tsfile/live/1084_1.m3u8
-東森財經,https://ytm2.yuanhsing.cf/EBCFinancial.m3u8
 三立iNEW+,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
 台視新聞,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
 中視新聞,https://ytm2.yuanhsing.cf/twctvnews.m3u8
@@ -280,27 +279,7 @@ TVBS新聞,https://tv.iill.top/youtube/m_dhMSvUCIc
 鏡新聞,https://tv.iill.top/youtube/5n0y6b0Q25o
 CNN,mitv://135.148.104.228:19806/64e312b4000a495878d628702a9c2b2e
 CNN USA,mitv://135.148.104.228:19806/e26f49dc14b34b1abe3e1fea84e1e5f4
-三立INEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
-寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-东森财经新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
-DW NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
-中视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
-民视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-ABC NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
-台视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
-中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-Tokyo Shibuya「东京涩谷」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
-TVBS网路新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
-三立NEWS+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-FRANCE 24,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
-NBC NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
-TBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
-ANN NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
-中天新闻「循环直播」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
-HTB NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
-半岛新闻「英语」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
-镜新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
-Taiwan+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
+
 
 
 国际,#genre#

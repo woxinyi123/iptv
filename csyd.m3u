@@ -54,7 +54,7 @@ http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000071000000305
 #EXTINF:-1 tvg-id="250" tvg-name="CGTN俄语" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725180200368.jpg" group-title="央视",CGTN俄语
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000071000000305589/main.m3u8
 #EXTINF:-1 tvg-id="02" tvg-name="湖南卫视" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725183537628.jpg" group-title="省内",湖南卫视
-http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308822/main.m3u8
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000001001000000000035/main.m3u8
 #EXTINF:-1 tvg-id="02" tvg-name="湖南经视" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725190307659.jpg" group-title="省内",湖南经视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000002000000113182/main.m3u8
 #EXTINF:-1 tvg-id="03" tvg-name="湖南都市" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725190355486.jpg" group-title="省内",湖南都市

@@ -37,69 +37,69 @@ http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000079000000434
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000025000000024152/main.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV4K.png",CCTV4K
 http://tvgslb.hn.chinamobile.com:8089/180000001001/32023092211020848462000290559536/main.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/CGTN.png",CGTN
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CGTN.png",CGTN
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182292/main.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/CGTN%E7%BA%AA%E5%BD%95.png",CGTN纪录
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CGTN%E7%BA%AA%E5%BD%95.png",CGTN纪录
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182305/main.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/CETV-1.png",CETV-1
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CETV-1.png",CETV-1
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000016000000007220/main.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV4%E6%AC%A7%E6%B4%B2.png",CCTV4欧洲
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000071000000305577/main.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV4%E7%BE%8E%E6%B4%B2.png",CCTV4美洲
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000071000000305581/main.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/CGTN%E8%A5%BF%E7%8F%AD%E7%89%99%E8%AF%AD.png",CGTN西班牙语
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CGTN%E8%A5%BF%E7%8F%AD%E7%89%99%E8%AF%AD.png",CGTN西班牙语
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000071000000305582/main.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/CGTN%E6%B3%95%E8%AF%AD.png",CGTN法语
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CGTN%E6%B3%95%E8%AF%AD.png",CGTN法语
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000071000000305586/main.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/CGTN%E9%98%BF%E6%8B%89%E4%BC%AF%E8%AF%AD.png",CGTN阿拉伯语
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CGTN%E9%98%BF%E6%8B%89%E4%BC%AF%E8%AF%AD.png",CGTN阿拉伯语
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000071000000305587/main.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/CGTN%E4%BF%84%E8%AF%AD.png",CGTN俄语
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CGTN%E4%BF%84%E8%AF%AD.png",CGTN俄语
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000071000000305589/main.m3u8
 #EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png",湖南卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000001001000000000035/main.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B9%96%E5%8D%97%E7%BB%8F%E8%A7%86.png",湖南经视
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B9%96%E5%8D%97%E7%BB%8F%E8%A7%86.png",湖南经视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000002000000113182/main.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B9%96%E5%8D%97%E9%83%BD%E5%B8%82.png",湖南都市
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B9%96%E5%8D%97%E9%83%BD%E5%B8%82.png",湖南都市
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001249/main.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B9%96%E5%8D%97%E7%94%B5%E8%A7%86%E5%89%A7.png",湖南电视剧
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B9%96%E5%8D%97%E7%94%B5%E8%A7%86%E5%89%A7.png",湖南电视剧
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001245/main.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B9%96%E5%8D%97%E7%94%B5%E5%BD%B1.png",湖南电影
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B9%96%E5%8D%97%E7%94%B5%E5%BD%B1.png",湖南电影
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001246/main.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B9%96%E5%8D%97%E5%A8%B1%E4%B9%90.png",湖南娱乐
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B9%96%E5%8D%97%E5%A8%B1%E4%B9%90.png",湖南娱乐
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001248/main.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%87%91%E9%B9%B0%E7%BA%AA%E5%AE%9E.png",金鹰纪实
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%87%91%E9%B9%B0%E7%BA%AA%E5%AE%9E.png",金鹰纪实
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000016000000007228/main.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B9%96%E5%8D%97%E7%88%B1%E6%99%9A.png",湖南爱晚
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B9%96%E5%8D%97%E7%88%B1%E6%99%9A.png",湖南爱晚
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047425/main.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B9%96%E5%8D%97%E5%9B%BD%E9%99%85.png",湖南国际
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B9%96%E5%8D%97%E5%9B%BD%E9%99%85.png",湖南国际
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047426/main.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9A.png",金鹰卡通
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9A.png",金鹰卡通
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001247/main.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%BF%AB%E4%B9%90%E8%B4%AD.png",快乐购
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%BF%AB%E4%B9%90%E8%B4%AD.png",快乐购
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047427/main.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B9%96%E5%8D%97%E6%95%99%E8%82%B2.png",湖南教育
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B9%96%E5%8D%97%E6%95%99%E8%82%B2.png",湖南教育
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000023000000196697/main.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%98%89%E4%B8%BD%E8%B4%AD.png",嘉丽购
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%98%89%E4%B8%BD%E8%B4%AD.png",嘉丽购
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047453/main.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E8%8C%B6%E9%A2%91%E9%81%93.png",茶频道
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E8%8C%B6%E9%A2%91%E9%81%93.png",茶频道
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000025000000316196/main.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%85%88%E9%94%8B%E4%B9%92%E7%BE%BD.png",先锋乒羽
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%85%88%E9%94%8B%E4%B9%92%E7%BE%BD.png",先锋乒羽
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182319/main.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%AD%E5%9B%BD%E4%BA%A4%E9%80%9A.png",中国交通
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%AD%E5%9B%BD%E4%BA%A4%E9%80%9A.png",中国交通
 http://tvgslb.hn.chinamobile.com:8089/180000001001/32024060300263469184599487590055/main.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%AD%E5%9B%BD%E5%A4%A9%E6%B0%94.png",中国天气
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%AD%E5%9B%BD%E5%A4%A9%E6%B0%94.png",中国天气
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000004000000182438/main.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E8%8C%B6%E5%8F%8B%E9%A2%91%E9%81%93.png",茶友频道
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E8%8C%B6%E5%8F%8B%E9%A2%91%E9%81%93.png",茶友频道
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000025000000316196/main.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%95%BF%E6%B2%99%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png",长沙新闻综合
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%95%BF%E6%B2%99%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png",长沙新闻综合
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047429/main.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%95%BF%E6%B2%99%E6%94%BF%E6%B3%95.png",长沙政法
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%95%BF%E6%B2%99%E6%94%BF%E6%B3%95.png",长沙政法
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047430/main.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%95%BF%E6%B2%99%E6%94%BF%E6%B3%95.png",长沙政法
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%95%BF%E6%B2%99%E6%94%BF%E6%B3%95.png",长沙政法
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182540/main.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%95%BF%E6%B2%99%E5%A5%B3%E6%80%A7.png",长沙女性
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%95%BF%E6%B2%99%E5%A5%B3%E6%80%A7.png",长沙女性
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182541/main.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%95%BF%E6%B2%99%E5%BD%B1%E8%A7%86.png",长沙影视
+#EXTINF:-1 group-title="央视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%95%BF%E6%B2%99%E5%BD%B1%E8%A7%86.png",长沙影视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182542/main.m3u8
 #EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png",湖南卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040382/main.m3u8
@@ -163,119 +163,119 @@ http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182275/main.m3u8
 #EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png",甘肃卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000133802/main.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF.png",卡酷少儿
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF.png",卡酷少儿
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000090000000215608/main.m3u8
 #EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86.png",青海卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000090000000215609/main.m3u8
 #EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86.png",大湾区卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182538/main.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2.png",山东教育
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2.png",山东教育
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000016000000007227/main.m3u8
 #EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8E%A6%E9%97%A8%E5%8D%AB%E8%A7%86.png",厦门卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000022000000381023/main.m3u8
 #EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86.png",兵团卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000022000000381024/main.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/CETV-2.png",CETV-2
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CETV-2.png",CETV-2
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000024000000361367/main.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/CETV-4.png",CETV-4
+#EXTINF:-1 group-title="卫视" tvg-logo="https://www.lysvc.cc/TVLogo/img/CETV-4.png",CETV-4
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000024000000361368/main.m3u8
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%AD%85%E5%8A%9B%E8%B6%B3%E7%90%83.png",魅力足球
+#EXTINF:-1 group-title="数字" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%AD%85%E5%8A%9B%E8%B6%B3%E7%90%83.png",魅力足球
 http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042209535166598016957159953/main.m3u8
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%A4%A9%E5%85%83%E5%9B%B4%E6%A3%8B.png",天元围棋
+#EXTINF:-1 group-title="数字" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%A4%A9%E5%85%83%E5%9B%B4%E6%A3%8B.png",天元围棋
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040365/main.m3u8
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%A2%A8%E5%9B%AD%E9%A2%91%E9%81%93.png",梨园频道
+#EXTINF:-1 group-title="数字" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%A2%A8%E5%9B%AD%E9%A2%91%E9%81%93.png",梨园频道
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000064000000308847/main.m3u8
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%9B%9B%E6%B5%B7%E9%92%93%E9%B1%BC.png",四海钓鱼
+#EXTINF:-1 group-title="数字" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%9B%9B%E6%B5%B7%E9%92%93%E9%B1%BC.png",四海钓鱼
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040367/main.m3u8
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93.png",快乐垂钓
+#EXTINF:-1 group-title="数字" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93.png",快乐垂钓
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040368/main.m3u8
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%96%87%E7%89%A9%E5%AE%9D%E5%BA%93.png",文物宝库
+#EXTINF:-1 group-title="数字" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%96%87%E7%89%A9%E5%AE%9D%E5%BA%93.png",文物宝库
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000064000000308848/main.m3u8
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%99%BE%E5%A7%93%E5%81%A5%E5%BA%B7.png",百姓健康
+#EXTINF:-1 group-title="数字" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%99%BE%E5%A7%93%E5%81%A5%E5%BA%B7.png",百姓健康
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040371/main.m3u8
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%AC%AC%E4%B8%80%E5%89%A7%E5%9C%BA.png",第一剧场
+#EXTINF:-1 group-title="数字" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%AC%AC%E4%B8%80%E5%89%A7%E5%9C%BA.png",第一剧场
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244808/main.m3u8
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%A3%8E%E4%BA%91%E5%89%A7%E5%9C%BA.png",风云剧场
+#EXTINF:-1 group-title="数字" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%A3%8E%E4%BA%91%E5%89%A7%E5%9C%BA.png",风云剧场
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244807/main.m3u8
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%A3%8E%E4%BA%91%E9%9F%B3%E4%B9%90.png",风云音乐
+#EXTINF:-1 group-title="数字" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%A3%8E%E4%BA%91%E9%9F%B3%E4%B9%90.png",风云音乐
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244809/main.m3u8
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83.png",风云足球
+#EXTINF:-1 group-title="数字" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83.png",风云足球
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244800/main.m3u8
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BA.png",怀旧剧场
+#EXTINF:-1 group-title="数字" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BA.png",怀旧剧场
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244806/main.m3u8
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%A5%B3%E6%80%A7%E6%97%B6%E5%B0%9A.png",女性时尚
+#EXTINF:-1 group-title="数字" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%A5%B3%E6%80%A7%E6%97%B6%E5%B0%9A.png",女性时尚
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244811/main.m3u8
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%A4%AE%E8%A7%86%E6%96%87%E5%8C%96%E7%B2%BE%E5%93%81.png",央视文化精品
+#EXTINF:-1 group-title="数字" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%A4%AE%E8%A7%86%E6%96%87%E5%8C%96%E7%B2%BE%E5%93%81.png",央视文化精品
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244810/main.m3u8
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%96%E7%95%8C%E5%9C%B0%E7%90%86.png",世界地理
+#EXTINF:-1 group-title="数字" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%96%E7%95%8C%E5%9C%B0%E7%90%86.png",世界地理
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244805/main.m3u8
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%A4%AE%E8%A7%86%E5%8F%B0%E7%90%83.png",央视台球
+#EXTINF:-1 group-title="数字" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%A4%AE%E8%A7%86%E5%8F%B0%E7%90%83.png",央视台球
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244803/main.m3u8
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%85%B5%E5%99%A8%E7%A7%91%E6%8A%80.png",兵器科技
+#EXTINF:-1 group-title="数字" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%85%B5%E5%99%A8%E7%A7%91%E6%8A%80.png",兵器科技
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244796/main.m3u8
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%94%B5%E8%A7%86%E6%8C%87%E5%8D%97.png",电视指南
+#EXTINF:-1 group-title="数字" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%94%B5%E8%A7%86%E6%8C%87%E5%8D%97.png",电视指南
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244797/main.m3u8
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%AB%98%E5%B0%94%E5%A4%AB%E7%BD%91%E7%90%83.png",高尔夫网球
+#EXTINF:-1 group-title="数字" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%AB%98%E5%B0%94%E5%A4%AB%E7%BD%91%E7%90%83.png",高尔夫网球
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244801/main.m3u8
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2.png",CHC家庭影院
+#EXTINF:-1 group-title="数字" tvg-logo="https://www.lysvc.cc/TVLogo/img/CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2.png",CHC家庭影院
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448840/main.m3u8
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1.png",CHC影迷电影
+#EXTINF:-1 group-title="数字" tvg-logo="https://www.lysvc.cc/TVLogo/img/CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1.png",CHC影迷电影
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448841/main.m3u8
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1.png",CHC动作电影
+#EXTINF:-1 group-title="数字" tvg-logo="https://www.lysvc.cc/TVLogo/img/CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1.png",CHC动作电影
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448842/main.m3u8
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B8%B8%E6%88%8F%E9%A3%8E%E4%BA%91.png",游戏风云
+#EXTINF:-1 group-title="数字" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B8%B8%E6%88%8F%E9%A3%8E%E4%BA%91.png",游戏风云
 http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042211010049110856436458678/main.m3u8
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B9%90%E6%B8%B8%E9%A2%91%E9%81%93.png",乐游频道
+#EXTINF:-1 group-title="数字" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B9%90%E6%B8%B8%E9%A2%91%E9%81%93.png",乐游频道
 http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042210562120685964078060674/main.m3u8
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%96%B0%E5%8A%A8%E6%BC%AB.png",新动漫
+#EXTINF:-1 group-title="数字" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%96%B0%E5%8A%A8%E6%BC%AB.png",新动漫
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448837/main.m3u8
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%BC%98%E4%BC%98%E5%AE%9D%E8%B4%9D.png",优优宝贝
+#EXTINF:-1 group-title="数字" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%BC%98%E4%BC%98%E5%AE%9D%E8%B4%9D.png",优优宝贝
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040377/main.m3u8
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E8%80%81%E6%95%85%E4%BA%8B.png",老故事
+#EXTINF:-1 group-title="数字" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E8%80%81%E6%95%85%E4%BA%8B.png",老故事
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448839/main.m3u8
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%AE%B6%E5%BA%AD%E7%90%86%E8%B4%A2.png",家庭理财
+#EXTINF:-1 group-title="数字" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%AE%B6%E5%BA%AD%E7%90%86%E8%B4%A2.png",家庭理财
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040379/main.m3u8
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8B.png",财富天下
+#EXTINF:-1 group-title="数字" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8B.png",财富天下
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040380/main.m3u8
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%AD%A6%E6%9C%AF%E4%B8%96%E7%95%8C.png",武术世界
+#EXTINF:-1 group-title="数字" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%AD%A6%E6%9C%AF%E4%B8%96%E7%95%8C.png",武术世界
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000064000000308859/main.m3u8
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B9%A6%E7%94%BB%E9%A2%91%E9%81%93.png",书画频道
+#EXTINF:-1 group-title="数字" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B9%A6%E7%94%BB%E9%A2%91%E9%81%93.png",书画频道
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448843/main.m3u8
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B9%A6%E7%94%BB%E9%A2%91%E9%81%93.png",书画频道
+#EXTINF:-1 group-title="数字" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B9%A6%E7%94%BB%E9%A2%91%E9%81%93.png",书画频道
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448843/main.m3u8
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%9D%93%E5%A6%86%E9%A2%91%E9%81%93.png",靓妆频道
+#EXTINF:-1 group-title="数字" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%9D%93%E5%A6%86%E9%A2%91%E9%81%93.png",靓妆频道
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000064000000308865/main.m3u8
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%AD%E5%8D%8E%E7%89%B9%E4%BA%A7.png",中华特产
+#EXTINF:-1 group-title="数字" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%AD%E5%8D%8E%E7%89%B9%E4%BA%A7.png",中华特产
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448845/main.m3u8
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%8E%AF%E7%90%83%E6%97%85%E6%B8%B8.png",环球旅游
+#EXTINF:-1 group-title="数字" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%8E%AF%E7%90%83%E6%97%85%E6%B8%B8.png",环球旅游
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000064000000308870/main.m3u8
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8A%A8%E6%BC%AB%E7%A7%80%E5%9C%BA.png",动漫秀场
+#EXTINF:-1 group-title="数字" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8A%A8%E6%BC%AB%E7%A7%80%E5%9C%BA.png",动漫秀场
 http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042210585548805959716256407/main.m3u8
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B3%95%E6%B2%BB%E5%A4%A9%E5%9C%B0.png",法治天地
+#EXTINF:-1 group-title="数字" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%B3%95%E6%B2%BB%E5%A4%A9%E5%9C%B0.png",法治天地
 http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042210594333901402503226852/main.m3u8
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%87%91%E8%89%B2%E5%AD%A6%E5%A0%82.png",金色学堂
+#EXTINF:-1 group-title="数字" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%87%91%E8%89%B2%E5%AD%A6%E5%A0%82.png",金色学堂
 http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042211003612942969703619522/main.m3u8
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%94%9F%E6%B4%BB%E6%97%B6%E5%B0%9A.png",生活时尚
+#EXTINF:-1 group-title="数字" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%94%9F%E6%B4%BB%E6%97%B6%E5%B0%9A.png",生活时尚
 http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042211012947472200435228155/main.m3u8
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%9C%E6%96%B9%E8%B4%A2%E7%BB%8F.png",东方财经
+#EXTINF:-1 group-title="数字" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%9C%E6%96%B9%E8%B4%A2%E7%BB%8F.png",东方财经
 http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042209595643000133896920951/main.m3u8
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BA%AA%E5%AE%9E%E7%A7%91%E6%95%99.png",纪实科教
+#EXTINF:-1 group-title="数字" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%BA%AA%E5%AE%9E%E7%A7%91%E6%95%99.png",纪实科教
 http://tvgslb.hn.chinamobile.com:8089/180000001001/32024021915401878655075619734783/main.m3u8
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8C%97%E4%BA%AC%E5%8D%A1%E9%85%B7.png",北京卡酷
+#EXTINF:-1 group-title="数字" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8C%97%E4%BA%AC%E5%8D%A1%E9%85%B7.png",北京卡酷
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000090000000215608/main.m3u8
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A.png",嘉佳卡通
+#EXTINF:-1 group-title="数字" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A.png",嘉佳卡通
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000022000000381025/main.m3u8
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%93%92%E5%95%B5%E8%B5%9B%E4%BA%8B.png",哒啵赛事
+#EXTINF:-1 group-title="数字" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%93%92%E5%95%B5%E8%B5%9B%E4%BA%8B.png",哒啵赛事
 http://39.134.240.2/PLTV/1/224/3221225624/index.m3u8
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%BC%98%E6%BC%AB%E5%8D%A1%E9%80%9A.png",优漫卡通
+#EXTINF:-1 group-title="数字" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%BC%98%E6%BC%AB%E5%8D%A1%E9%80%9A.png",优漫卡通
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182321/main.m3u8
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%93%88%E5%93%88%E7%82%AB%E5%8A%A8.png",哈哈炫动
+#EXTINF:-1 group-title="数字" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%93%88%E5%93%88%E7%82%AB%E5%8A%A8.png",哈哈炫动
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182497/main.m3u8
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%BB%91%E8%8E%93%E5%8A%A8%E7%94%BB.png",黑莓动画
+#EXTINF:-1 group-title="数字" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%BB%91%E8%8E%93%E5%8A%A8%E7%94%BB.png",黑莓动画
 http://39.134.65.213/PLTV/88888888/224/3221225529/1.m3u8
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%BB%91%E8%8E%93%E7%94%B5%E5%BD%B1.png",黑莓电影
+#EXTINF:-1 group-title="数字" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E9%BB%91%E8%8E%93%E7%94%B5%E5%BD%B1.png",黑莓电影
 http://39.134.240.2/PLTV/1/224/3221225628/index.m3u8
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%9C%E5%8C%97%E7%83%AD%E5%89%A7.png",东北热剧
+#EXTINF:-1 group-title="数字" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%9C%E5%8C%97%E7%83%AD%E5%89%A7.png",东北热剧
 http://39.134.65.196/PLTV/88888888/224/3221225679/1.m3u8
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E8%B6%85%E7%BA%A7%E4%BD%93%E8%82%B2.png",超级体育
+#EXTINF:-1 group-title="数字" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E8%B6%85%E7%BA%A7%E4%BD%93%E8%82%B2.png",超级体育
 http://39.134.65.198/PLTV/88888888/224/3221225635/1.m3u8
